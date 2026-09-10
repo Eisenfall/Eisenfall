@@ -16,6 +16,8 @@
 
 ## 🛰️ Operator Profile
 
+<img align="right" width="220" src="./assets/operator-portrait.png" alt="Anime-inspired field operator portrait">
+
 > **Call sign:** Eisenfall  
 > **Current role:** Junior DevOps & Network Infrastructure learner  
 > **Operating principle:** Build small. Observe carefully. Improve continuously.
